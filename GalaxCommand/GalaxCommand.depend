@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1545742699 source:c:\users\mark\desktop\progect\galaxcommand\main.cpp
+	<iostream>
+	<fstream>
+	<locale>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<PollyponSet.h>
+
+1545641380 c:\users\mark\desktop\progect\galaxcommand\include\filesaver.h
+	<fstream>
+
+1545641184 source:c:\users\mark\desktop\progect\galaxcommand\src\filesaver.cpp
+	"FileSaver.h"
+
+1545740011 c:\users\mark\desktop\progect\galaxcommand\include\pollyponset.h
+	<iostream>
+	<fstream>
+	<locale>
+	<conio.h>
+	<windows.h>
+
+1545731213 source:c:\users\mark\desktop\progect\galaxcommand\src\pollyponset.cpp
+	"PollyponSet.h"
+	<iostream>
+	<fstream>
+	<locale>
+	<conio.h>
+	<windows.h>
+
